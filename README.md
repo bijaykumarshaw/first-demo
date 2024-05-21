@@ -1,4 +1,4 @@
 # first-demo
 This is my first Git repository.
 <br>
-Author - Bijay Kumar Shaw
+Author - BIJAY KUMAR SHAW
